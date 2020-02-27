@@ -68,5 +68,7 @@ class Kernel extends HttpKernel
 
 
         'demo' => \App\Http\Middleware\Demo::class,
+        'ajax'		  => \App\Http\Middleware\IsAjax::class,
+		
     ];
 }
