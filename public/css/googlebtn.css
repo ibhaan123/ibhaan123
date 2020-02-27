@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+a.google-oauth {
+    position: relative;
+    display: block;
+    color: #444;
+    background: white;
+    border: 1px solid #ddd;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    padding: 7px 12px;
+    border-radius: 3px;
+    -webkit-appearance: none;
+	text-decoration:none;
+}
+ a.google-oauth:hover {
+    background-color: #dfdfdf;
+    -webkit-transition: background 0.1s;
+    -moz-transition: background 0.1s;
+    -o-transition: background 0.1s;
+    transition: background 0.1s;
+}
+
+img.google-logo {
+    position: absolute;
+    top: 9px;
+    left: 16px;
+    bottom: 0;
+    right: 0;
+}
+
+.select2-search__field:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #55a6f8;
+    outline: none;
+}
+
+
+

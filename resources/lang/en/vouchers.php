@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'vouchers' => 'Vouchers',
+	'Voucher' => 'Voucher',
+	'Vouchers' => 'Vouchers',
+	'selected' => 'Selected',
+	'toggle_status' => 'Toggle Status',
+	'reset' => 'Reset',
+	'nothing_selected' => 'Nothing Selected',
+	'user_id' => 'User Id',
+	'token_id' => 'Currency',
+	'token_type' => 'Token Type',
+	'value' => 'Value Of Each Voucher',
+	'val' => 'Value',
+	'code' => 'Code',
+	'loaded'=>'Your :name account has been Credited with :value . Voucher Loaded Succeefully ',
+	'enter_code' => 'Enter Voucher Code',
+	'used' => 'Date Used',
+	'voucher_used' => 'Used Voucher',
+	'amount' => 'Quantity of Vouchers',
+	'status' => 'Status',
+	'exceeded'=>'You have exceeded :max allowed Attempts',
+	'invalid'=>'Invalid Voucher Code <br>:left Attempts Left',
+	'invalid_new'=>'New Unspent Voucher',
+	'invalid_used'=>'Voucher Spent On :date',
+	'invalid_serial'=>'Invalid Serial',
+	'admin_cannot_load'=>'Admin Cannot Load Vouchers',
+	'no_service'=>'This Currency is not enabled for Trading. Contact Support',
+	
+];
